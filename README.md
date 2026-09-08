@@ -1,1 +1,2 @@
-# IID
+hola = "Mundo"
+hola(print)
