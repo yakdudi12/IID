@@ -1,2 +1,2 @@
-hola = "Mundo"
+"hola" = Mundo
 hola(print)
