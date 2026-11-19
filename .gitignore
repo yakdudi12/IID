@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Bases SQLite generadas por el notebook (pesan >1 GB, se regeneran corriéndolo)
+data/processed/
