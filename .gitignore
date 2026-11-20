@@ -221,3 +221,6 @@ __marimo__/
 
 # Bases SQLite generadas por el notebook (pesan >1 GB, se regeneran corriéndolo)
 data/processed/
+
+# App Streamlit: la genera el notebook (celdas %%writefile), la fuente es el notebook
+notebooks/app_clinvar.py
